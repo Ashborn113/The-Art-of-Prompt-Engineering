@@ -1,7 +1,8 @@
-#The Art of Prompt Engineering\
-#Author : @sinanazeri
+# The Art of Prompt Engineering
+Mentee assignment from IBM Advance AI Infinite Learning
+[Course The Art of Prompt Engineering](https://apps.cognitiveclass.ai/learning/course/course-v1:IBMSkillsNetwork+GPXX0TGVEN+v1/home) from CognitiveClass.ai
 
-Course Completion of The Art of Prompt Engineering\
-Nama : Muhammad Hadi Khairullah\
-Program : IBM Advance AI\
-Mentor : Ichsan Takwa
+## Info
+Name: Muhammad Hadi Khairullah\
+Program: IBM Advance AI\
+Personal Mentor : Ichsan Takwa
